@@ -4,7 +4,8 @@
     <test name="Functional Test" >
         <classes>
 <!--            <class name="mobileAppTest.LoginTestDevice"/>-->
-            <class name="mobileAppTest.LoginTestCloud"/>
+<!--            <class name="mobileAppTest.LoginTestCloud"/>-->
+            <class name="mobileAppTest.CheckJenkins"/>
         </classes>
     </test>
 </suite>

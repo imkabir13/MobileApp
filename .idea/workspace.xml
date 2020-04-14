@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7dedc773-109b-4660-ab5f-6d471509c46e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/mobileAppTest/LoginTestCloud.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mobileAppTest/LoginTestCloud.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,7 @@
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG./Users/imrankabir/IdeaProjects/Appium_project/src/test/resources/testng.xml">
+  <component name="RunManager" selected="TestNG.CheckJenkins">
     <configuration name="AndroidTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="demo.AndroidTest" />
       <module name="Appium_project" />
@@ -59,15 +58,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cloud" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.Cloud" />
+    <configuration name="CheckJenkins" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Appium_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.*" />
+          <option name="PATTERN" value="mobileAppTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="mobileAppTest" />
+      <option name="MAIN_CLASS_NAME" value="mobileAppTest.CheckJenkins" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -119,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.CheckJenkins" />
         <item itemvalue="TestNG./Users/imrankabir/IdeaProjects/Appium_project/src/test/resources/testng.xml" />
         <item itemvalue="TestNG.LoginTestDevice.loginTest" />
         <item itemvalue="TestNG.LoginTestDevice" />
         <item itemvalue="Application.AndroidTest" />
-        <item itemvalue="Application.Cloud" />
       </list>
     </recent_temporary>
   </component>
