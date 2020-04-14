@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7dedc773-109b-4660-ab5f-6d471509c46e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mobileAppTest/LoginTestCloud.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mobileAppTest/LoginTestCloud.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +36,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -187,10 +189,11 @@
     <state width="1875" height="540" key="GridCell.Tab.0.right/1792.23.1920.1003/0.23.1792.1097@1792.23.1920.1003" timestamp="1586758630744" />
     <state width="1970" height="268" key="GridCell.Tab.0.right/1792.23.1920.1057/0.23.1792.1042@1792.23.1920.1057" timestamp="1586731937041" />
     <state width="1875" height="540" key="GridCell.Tab.0.right/1792.23.1920.1057/0.23.1792.1046@1792.23.1920.1057" timestamp="1586824256141" />
-    <state x="2217" y="160" key="SettingsEditor" timestamp="1586758626252">
-      <screen x="1792" y="23" width="1920" height="1003" />
+    <state x="2217" y="160" key="SettingsEditor" timestamp="1586826703283">
+      <screen x="1792" y="23" width="1920" height="1005" />
     </state>
     <state x="2217" y="160" key="SettingsEditor/1792.23.1920.1003/0.23.1792.1097@1792.23.1920.1003" timestamp="1586758626252" />
+    <state x="2217" y="160" key="SettingsEditor/1792.23.1920.1005/0.23.1792.1097@1792.23.1920.1005" timestamp="1586826703283" />
     <state x="397" y="173" key="SettingsEditor/1792.23.1920.992/0.23.1792.1097@0.23.1792.1097" timestamp="1580678409504" />
     <state x="607" y="376" key="com.intellij.ide.util.TipDialog" timestamp="1581381951629">
       <screen x="0" y="23" width="1792" height="1033" />

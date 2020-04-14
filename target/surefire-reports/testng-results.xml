@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Mobile testing" duration-ms="18328" started-at="2020-04-13T17:36:33 MST" finished-at="2020-04-13T17:36:51 MST">
+  <suite name="Mobile testing" duration-ms="31195" started-at="2020-04-13T18:25:03 MST" finished-at="2020-04-13T18:25:35 MST">
     <groups>
     </groups>
-    <test name="Functional Test" duration-ms="18328" started-at="2020-04-13T17:36:33 MST" finished-at="2020-04-13T17:36:51 MST">
-      <class name="mobileAppTest.LoginTestDevice">
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:mobileAppTest.LoginTestDevice@61f8bee4]" name="loginTest" duration-ms="18307" started-at="2020-04-13T17:36:33 MST" finished-at="2020-04-13T17:36:51 MST">
+    <test name="Functional Test" duration-ms="31195" started-at="2020-04-13T18:25:03 MST" finished-at="2020-04-13T18:25:35 MST">
+      <class name="mobileAppTest.LoginTestCloud">
+        <test-method status="PASS" signature="loginTestCloud()[pri:0, instance:mobileAppTest.LoginTestCloud@589838eb]" name="loginTestCloud" duration-ms="31172" started-at="2020-04-13T18:25:03 MST" finished-at="2020-04-13T18:25:35 MST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- loginTest -->
-      </class> <!-- mobileAppTest.LoginTestDevice -->
+        </test-method> <!-- loginTestCloud -->
+      </class> <!-- mobileAppTest.LoginTestCloud -->
     </test> <!-- Functional Test -->
   </suite> <!-- Mobile testing -->
 </testng-results>

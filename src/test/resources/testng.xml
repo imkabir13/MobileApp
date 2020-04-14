@@ -3,7 +3,8 @@
 <suite name="Mobile testing" verbose="1" >
     <test name="Functional Test" >
         <classes>
-            <class name="mobileAppTest.LoginTestDevice"/>
+<!--            <class name="mobileAppTest.LoginTestDevice"/>-->
+            <class name="mobileAppTest.LoginTestCloud"/>
         </classes>
     </test>
 </suite>
